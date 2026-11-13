@@ -4,9 +4,9 @@
 
 **Blocked by:** 01: Adding and listing tasks.
 
-**Status:** ready-for-agent
+**Status:** done
 
-- [ ] (Spec completion criterion 5) A task can be marked complete and returned to incomplete.
-- [ ] Completed tasks remain visible and are visually distinct.
-- [ ] (Spec completion criterion 5) The remaining count equals the number of incomplete tasks and updates after adding, completing, and uncompleting tasks.
-- [ ] (Spec completion criterion 5) Toggling a task does not change its position in the list.
+- [x] (Spec completion criterion 5) A task can be marked complete and returned to incomplete.
+- [x] Completed tasks remain visible and are visually distinct.
+- [x] (Spec completion criterion 5) The remaining count equals the number of incomplete tasks and updates after adding, completing, and uncompleting tasks.
+- [x] (Spec completion criterion 5) Toggling a task does not change its position in the list.
