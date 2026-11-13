@@ -159,7 +159,11 @@ input:focus-visible {
 .add-form input:focus {
   border-color: #9bb9a5;
   background: #fff;
-  outline: none;
+}
+
+.add-form input:focus-visible {
+  outline: 3px solid #9bb9a5;
+  outline-offset: 3px;
 }
 
 .add-form input:disabled {
