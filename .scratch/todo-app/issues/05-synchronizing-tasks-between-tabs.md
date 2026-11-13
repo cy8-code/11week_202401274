@@ -4,8 +4,8 @@
 
 **Blocked by:** 04: Persisting tasks in browser storage.
 
-**Status:** ready-for-agent
+**Status:** done
 
-- [ ] (Spec completion criterion 9) A task added, completed, uncompleted, or deleted in one of two tabs in the same browser is reflected automatically in the other tab.
-- [ ] The task list and remaining count stay consistent with the latest saved value.
-- [ ] Concurrent edits are not merged; the most recently saved list wins.
+- [x] (Spec completion criterion 9) A task added, completed, uncompleted, or deleted in one of two tabs in the same browser is reflected automatically in the other tab.
+- [x] The task list and remaining count stay consistent with the latest saved value.
+- [x] Concurrent edits are not merged; the most recently saved list wins.
